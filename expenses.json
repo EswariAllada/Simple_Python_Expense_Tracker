@@ -1,0 +1,20 @@
+[
+    {
+        "date": "4/5/26",
+        "category": "food",
+        "description": "meals",
+        "amount": "200"
+    },
+    {
+        "date": "5/5/26",
+        "category": "Travel",
+        "description": "college",
+        "amount": 100.0
+    },
+    {
+        "date": "5/5/26",
+        "category": "books",
+        "description": "college records",
+        "amount": 300.0
+    }
+]
